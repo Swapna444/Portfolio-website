@@ -1,3 +1,8 @@
+
+.{
+    border-size:border-box;
+}
+
 body{
 background-color: rgba(87, 37, 224, 0.856);
 }
