@@ -1,10 +1,14 @@
 
-.{
-    border-size:border-box;
+*{
+    margin:0;
+    padding:0;
 }
 
 body{
 background-color: rgba(87, 37, 224, 0.856);
+}
+#body{
+    background:linear-gradient(to bottom right red,blue);
 }
 h1{
     text-align: center;
