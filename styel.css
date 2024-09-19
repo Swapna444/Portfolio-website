@@ -24,7 +24,7 @@ h2{
     background-color: rgb(114, 229, 250);
 }
 
-.header{
+/*.header{
     text-align: center;
     color: #ffffff;
     display: flex;
@@ -33,7 +33,7 @@ h2{
     right: 0px;
     background-color:#000000;
     padding:15px;
-}
+}*/
 .item1{
     flex-grow: 1;
     cursor: pointer;
