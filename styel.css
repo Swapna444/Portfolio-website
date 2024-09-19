@@ -17,6 +17,10 @@ h1{
     color: rgb(129, 226, 226);
     top: 50px;
 }
+#first{
+    position:relative;
+    top:30px;
+}
 h2{
     color: blue;
     border: 1px solid whitesmoke;
