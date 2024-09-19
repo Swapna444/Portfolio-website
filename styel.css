@@ -5,9 +5,9 @@
 }
 nav{
     margin:1px 1px 4px 1px;
-    padding:3px;
-    background-color:#358547;
-
+    padding-right:3px;
+    background-color:#808887;
+    display:flex;
 }
 body{
     background:linear-gradient(to bottom right red,blue);
