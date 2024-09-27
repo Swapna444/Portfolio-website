@@ -10,7 +10,7 @@ nav{
     display:flex;
 }
 body{
-    background:linear-gradient(to bottom right red,blue);
+    background:linear-gradient(#727782,#526726,#626720,#ab8199,#DC6267);
 }
 h1{
     text-align: center;
